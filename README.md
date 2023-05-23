@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rossi-krishna
-- 👀 I’m interested in learn programming and cybersecurity...
+- 👀 I’m interested in learning programming and cybersecurity...
 - 🌱 I’m currently learning Java programming lang
 - 📫 How to reach me on Twitter
 - twitter ID : rossi_krishna
