@@ -24,8 +24,8 @@ I'm also intrigued by the rapid advancements in machine learning and artificial 
 📫 You can reach out to me via:
 
 - Email: [rossikrishna08@gmail.com]
-- Twitter: [@rossi_krishna]
-- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [https://twitter.com/hariramakrish08]
+- LinkedIn: [https://www.linkedin.com/in/hariramakrish]
 
 Feel free to connect with me for networking, collaboration opportunities, or any interesting discussions related to programming and cybersecurity.
 
